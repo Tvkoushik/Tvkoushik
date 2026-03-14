@@ -1,7 +1,7 @@
 <h1 align="center">Koushik Thota</h1>
 
 <p align="center">
-  I have spent 6+ years building data platforms across AWS and Azure, and I also work comfortably with AI tooling, LLM workflows, and agent-style automation.
+  I have spent 6+ years building data platforms across AWS and Azure, and I am pushing toward principal-level scope across full-stack data and AI systems.
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1F6FEB?style=for-the-badge" alt="6+ years experience" />
   <img src="https://img.shields.io/badge/Focus-Batch%20%2B%20Streaming%20Data-0F766E?style=for-the-badge" alt="Batch and streaming data" />
-  <img src="https://img.shields.io/badge/AI-LLM%20Engineering%20and%20Agent%20Tooling-7C3AED?style=for-the-badge" alt="AI and LLM engineering" />
+  <img src="https://img.shields.io/badge/Direction-Full--Stack%20Data%20%2B%20AI-7C3AED?style=for-the-badge" alt="Full-stack data and AI" />
 </p>
 
 ## About
@@ -20,6 +20,10 @@ I started in traditional ETL and data warehousing work, then moved deeper into c
 That mix still shapes the way I work. I am comfortable modernizing older enterprise flows, but I also like building cloud-native systems that are easier to run, inspect, and extend.
 
 A lot of my work has lived in environments where accuracy matters: insurance, enterprise reporting, industrial analytics, customer-facing platforms, and internal tools where data and AI need to be useful instead of just impressive.
+
+## Direction
+
+I am building toward principal-level ownership across full-stack data and AI. For me, that means going beyond pipelines into orchestration, APIs, agent workflows, evaluation, developer tooling, and the product surfaces around them.
 
 ## What I Can Build
 
@@ -59,7 +63,7 @@ A lot of my work has lived in environments where accuracy matters: insurance, en
 
 - Modernizing data flows from enterprise systems, flat files, APIs, and operational databases into cloud-ready platforms.
 - Designing pipelines that support both analytics use cases and downstream application needs.
-- Working across the older enterprise stack and the newer cloud-native stack without treating them like separate worlds.
+- Working across data, AI, and product-facing systems without treating them like separate problems.
 - Building systems that are easier to debug, easier to trust, and less painful to maintain.
 - Taking ownership from implementation through rollout, with mentoring and delivery discipline when teams need it.
 
