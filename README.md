@@ -1,7 +1,7 @@
 <h1 align="center">Koushik Thota</h1>
 
 <p align="center">
-  I have spent 6+ years building data platforms across AWS and Azure, moving between classic ETL, cloud warehousing, streaming systems, and internal analytics products.
+  I have spent 6+ years building data platforms across AWS and Azure, and I also work comfortably with AI tooling, LLM workflows, and agent-style automation.
 </p>
 
 <p align="center">
@@ -10,16 +10,16 @@
   </a>
   <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1F6FEB?style=for-the-badge" alt="6+ years experience" />
   <img src="https://img.shields.io/badge/Focus-Batch%20%2B%20Streaming%20Data-0F766E?style=for-the-badge" alt="Batch and streaming data" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud platforms" />
+  <img src="https://img.shields.io/badge/AI-LLM%20Engineering%20and%20Agent%20Tooling-7C3AED?style=for-the-badge" alt="AI and LLM engineering" />
 </p>
 
 ## About
 
-I started in traditional ETL and data warehousing work, then moved deeper into cloud data platforms, real-time pipelines, serverless systems, and analytics tooling.
+I started in traditional ETL and data warehousing work, then moved deeper into cloud data platforms, real-time pipelines, serverless systems, analytics tooling, and AI-enabled internal workflows.
 
 That mix still shapes the way I work. I am comfortable modernizing older enterprise flows, but I also like building cloud-native systems that are easier to run, inspect, and extend.
 
-A lot of my work has lived in environments where accuracy matters: insurance, enterprise reporting, industrial analytics, and customer-facing platforms. That usually means better validation, cleaner lineage, and fewer silent failures.
+A lot of my work has lived in environments where accuracy matters: insurance, enterprise reporting, industrial analytics, customer-facing platforms, and internal tools where data and AI need to be useful instead of just impressive.
 
 ## What I Can Build
 
@@ -36,17 +36,24 @@ A lot of my work has lived in environments where accuracy matters: insurance, en
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>Analytics, BI, and applied data products</h3>
+      <h3>Analytics, AI, and internal data products</h3>
       <ul>
         <li>Reporting and BI automation for internal teams</li>
         <li>Tableau governance and analytics platform tooling</li>
         <li>Data quality checks, schema validation, and production guardrails</li>
         <li>Applied ML workflows around forecasting, anomaly detection, recommendation logic, and AI-assisted classification</li>
-        <li>Backend and lightweight UI work when the data platform needs a product surface</li>
+        <li>LLM workflows, agent tooling, MCP-based integrations, and backend or UI work when the platform needs a product surface</li>
       </ul>
     </td>
   </tr>
 </table>
+
+## AI and LLM Work
+
+- Agent-style workflows using Claude Code, Gemini CLI, MCP servers, skills, plugins, and command-driven automation.
+- LLM application patterns using LangChain, LangGraph, and LangSmith for orchestration, tracing, and workflow design.
+- Prompt-plus-tool systems that need more than a chat box: connected tools, structured outputs, evaluation, and useful guardrails.
+- AI features that still need engineering discipline, especially around observability, handoffs, and reliability.
 
 ## Where I Am Strong
 
@@ -84,6 +91,12 @@ A lot of my work has lived in environments where accuracy matters: insurance, en
   <img src="https://img.shields.io/badge/Tableau-1F78B4?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0F172A?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-111827?style=flat-square" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/MCP-4F46E5?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-2563EB?style=flat-square" alt="Gemini CLI" />
 </p>
 
 ## Credentials
