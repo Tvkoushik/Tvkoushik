@@ -1,55 +1,79 @@
 <h1 align="center">Koushik Thota</h1>
 
 <p align="center">
-  Data Engineer who likes boring pipelines for the right reasons: predictable runs, clean data, and fewer surprises in production.
+  I build data systems that hold up in production: messy source data, awkward APIs, cloud sprawl, and downstream teams that still need clean answers.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/koushikt/">
     <img src="https://img.shields.io/badge/LinkedIn-Koushik%20Thota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-1f6feb?style=for-the-badge" alt="Focus: Data Engineering" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-232F3E?style=for-the-badge" alt="Cloud platforms" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-Production%20Focused-1F6FEB?style=for-the-badge" alt="Data Engineering" />
+  <img src="https://img.shields.io/badge/AWS-Serverless%20and%20Data%20Platform-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Analytics-Automation%20and%20Data%20Products-0F766E?style=for-the-badge" alt="Analytics Automation" />
 </p>
 
-## About
+## What I Can Build
 
-I build batch and streaming data systems with Python, SQL, Spark, Airflow, and cloud tooling.
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Data pipelines and platform work</h3>
+      <ul>
+        <li>Batch and event-driven ingestion pipelines</li>
+        <li>API, file, and cloud-source data connectors</li>
+        <li>Serverless AWS workflows with Lambda, Step Functions, EventBridge, S3, Glue, DynamoDB, Cognito, and Secrets Manager</li>
+        <li>Cross-account infrastructure and deployment workflows using AWS CDK</li>
+        <li>Operational sync jobs that move data into application databases and analytics stores</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Analytics, BI, and applied ML systems</h3>
+      <ul>
+        <li>Warehouse-friendly data flows for PostgreSQL, Supabase, Iceberg, DuckDB, and cloud analytics stacks</li>
+        <li>Analytics automation and governance tooling around reporting platforms like Tableau</li>
+        <li>Data quality checks, schema validation, and production guardrails</li>
+        <li>Applied ML pipelines for forecasting, anomaly detection, recommendation flows, and AI-assisted classification</li>
+        <li>Internal tooling and dashboard surfaces when the data platform needs a backend or UI</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Most of the work I enjoy is the unglamorous part: making pipelines easier to trust. Better checks. Cleaner handoffs. Less detective work when something breaks.
+## What The Code Says I Am Good At
 
-Lately I keep coming back to data quality automation, PySpark utilities, and warehouse-friendly pipelines that analysts can use without needing a tour guide.
+- Turning operational data from multiple systems into something reliable enough for analytics and product teams to use.
+- Building serverless workflows that are easier to run, inspect, and maintain.
+- Putting checks in the pipeline instead of hoping data issues get caught later.
+- Automating the repetitive parts of analytics operations, reporting workflows, and platform maintenance.
+- Working across the full path when needed: ingestion, transformation, storage, orchestration, backend glue, and front-end surfaces.
 
-## Tech I Reach For
+## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/PyArrow-4B8BBE?style=flat-square&logo=apachearrowflight&logoColor=white" alt="PyArrow" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Step Functions" />
+  <img src="https://img.shields.io/badge/AWS%20CDK-4B32C3?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CDK" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/Glue-4B8BBE?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/Iceberg-2F6DB5?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Tableau-1F78B4?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
 </p>
 
-## Featured Work
+## How I Like To Work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [gq-great-expectations](https://github.com/Tvkoushik/gq-great-expectations) | Runs practical data quality checks with Great Expectations. | Python, Great Expectations |
-| [event-fetcher](https://github.com/Tvkoushik/event-fetcher) | Schedules scraping and processing jobs on AWS, then stores outputs in S3. | Python, Lambda, Step Functions, S3 |
-| [kinesis-lambda](https://github.com/Tvkoushik/kinesis-lambda) | Small Lambda examples for reading from and writing to Kinesis streams. | Python, AWS Lambda, Kinesis |
-| [amazon-etl-pipeline](https://github.com/Tvkoushik/amazon-etl-pipeline) | End-to-end ETL flow for loading analytics data into Amazon Redshift. | AWS, ETL, Redshift |
-| [nested-dataframe-flattener](https://github.com/Tvkoushik/nested-dataframe-flattener) | Utility for flattening messy nested PySpark dataframes. | PySpark |
-| [python-oneliners](https://github.com/Tvkoushik/python-oneliners) | Short Python snippets I still find useful enough to keep around. | Python |
+I like systems that are boring in production. That usually means clear interfaces, useful logs, strong validation, and fewer moving parts than people first ask for.
 
-## Outside the Resume Version
-
-I like work that holds up after the demo: pipelines that are easy to run, easy to inspect, and not painful to extend six months later.
-
-If you're building data platforms, warehouse pipelines, or internal tooling around analytics, I'm always happy to connect.
+If you are building data platforms, analytics tooling, automation, or internal data products, feel free to connect.
