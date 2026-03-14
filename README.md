@@ -1,79 +1,103 @@
 <h1 align="center">Koushik Thota</h1>
 
+<p align="center"><strong>Senior Data Engineer at Crunchyroll</strong></p>
+
 <p align="center">
-  I build data systems that hold up in production: messy source data, awkward APIs, cloud sprawl, and downstream teams that still need clean answers.
+  I have spent 6+ years building data platforms across AWS and Azure, moving between classic ETL, cloud warehousing, streaming systems, and internal analytics products.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/koushikt/">
     <img src="https://img.shields.io/badge/LinkedIn-Koushik%20Thota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Data%20Engineering-Production%20Focused-1F6FEB?style=for-the-badge" alt="Data Engineering" />
-  <img src="https://img.shields.io/badge/AWS-Serverless%20and%20Data%20Platform-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Analytics-Automation%20and%20Data%20Products-0F766E?style=for-the-badge" alt="Analytics Automation" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1F6FEB?style=for-the-badge" alt="6+ years experience" />
+  <img src="https://img.shields.io/badge/Focus-Batch%20%2B%20Streaming%20Data-0F766E?style=for-the-badge" alt="Batch and streaming data" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Cloud platforms" />
 </p>
+
+## About
+
+I started in traditional ETL and data warehousing work, then moved deeper into cloud data platforms, real-time pipelines, serverless systems, and analytics tooling.
+
+That mix still shapes the way I work. I am comfortable modernizing older enterprise flows, but I also like building cloud-native systems that are easier to run, inspect, and extend.
+
+A lot of my work has lived in environments where accuracy matters: insurance, enterprise reporting, industrial analytics, and customer-facing platforms. That usually means better validation, cleaner lineage, and fewer silent failures.
 
 ## What I Can Build
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Data pipelines and platform work</h3>
+      <h3>Data engineering and platform work</h3>
       <ul>
-        <li>Batch and event-driven ingestion pipelines</li>
-        <li>API, file, and cloud-source data connectors</li>
-        <li>Serverless AWS workflows with Lambda, Step Functions, EventBridge, S3, Glue, DynamoDB, Cognito, and Secrets Manager</li>
-        <li>Cross-account infrastructure and deployment workflows using AWS CDK</li>
-        <li>Operational sync jobs that move data into application databases and analytics stores</li>
+        <li>Batch ETL and ELT pipelines</li>
+        <li>Streaming and event-driven data workflows</li>
+        <li>Cloud data platforms on AWS and Azure</li>
+        <li>Data lake, warehouse, and operational sync pipelines</li>
+        <li>Infrastructure-backed delivery using CDK, Terraform, and CI/CD workflows</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>Analytics, BI, and applied ML systems</h3>
+      <h3>Analytics, BI, and applied data products</h3>
       <ul>
-        <li>Warehouse-friendly data flows for PostgreSQL, Supabase, Iceberg, DuckDB, and cloud analytics stacks</li>
-        <li>Analytics automation and governance tooling around reporting platforms like Tableau</li>
+        <li>Reporting and BI automation for internal teams</li>
+        <li>Tableau governance and analytics platform tooling</li>
         <li>Data quality checks, schema validation, and production guardrails</li>
-        <li>Applied ML pipelines for forecasting, anomaly detection, recommendation flows, and AI-assisted classification</li>
-        <li>Internal tooling and dashboard surfaces when the data platform needs a backend or UI</li>
+        <li>Applied ML workflows around forecasting, anomaly detection, recommendation logic, and AI-assisted classification</li>
+        <li>Backend and lightweight UI work when the data platform needs a product surface</li>
       </ul>
     </td>
   </tr>
 </table>
 
-## What The Code Says I Am Good At
+## Where I Am Strong
 
-- Turning operational data from multiple systems into something reliable enough for analytics and product teams to use.
-- Building serverless workflows that are easier to run, inspect, and maintain.
-- Putting checks in the pipeline instead of hoping data issues get caught later.
-- Automating the repetitive parts of analytics operations, reporting workflows, and platform maintenance.
-- Working across the full path when needed: ingestion, transformation, storage, orchestration, backend glue, and front-end surfaces.
+- Modernizing data flows from enterprise systems, flat files, APIs, and operational databases into cloud-ready platforms.
+- Designing pipelines that support both analytics use cases and downstream application needs.
+- Working across the older enterprise stack and the newer cloud-native stack without treating them like separate worlds.
+- Building systems that are easier to debug, easier to trust, and less painful to maintain.
+- Taking ownership from implementation through rollout, with mentoring and delivery discipline when teams need it.
 
 ## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/PyArrow-4B8BBE?style=flat-square&logo=apachearrowflight&logoColor=white" alt="PyArrow" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Informatica-FF4F8B?style=flat-square" alt="Informatica" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Data Factory" />
+  <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Synapse" />
+  <img src="https://img.shields.io/badge/Databricks-EF3E42?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/Step%20Functions-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Step Functions" />
   <img src="https://img.shields.io/badge/AWS%20CDK-4B32C3?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CDK" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/Glue-4B8BBE?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Glue" />
+  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Iceberg-2F6DB5?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg" />
   <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" alt="DuckDB" />
   <img src="https://img.shields.io/badge/Tableau-1F78B4?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+</p>
+
+## Credentials
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Certified-Data%20Analytics%20Specialty-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Data Analytics - Specialty" />
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect - Associate" />
+  <img src="https://img.shields.io/badge/SAFe-5%20Practitioner-8B5CF6?style=flat-square" alt="SAFe 5 Practitioner" />
 </p>
 
 ## How I Like To Work
 
-I like systems that are boring in production. That usually means clear interfaces, useful logs, strong validation, and fewer moving parts than people first ask for.
+I like systems that are boring in production. That usually means clear interfaces, useful logs, stronger validation, and less mystery when something fails at 2 AM.
 
-If you are building data platforms, analytics tooling, automation, or internal data products, feel free to connect.
+If you are working on data platforms, analytics tooling, or internal automation, feel free to connect.
