@@ -1,7 +1,5 @@
 <h1 align="center">Koushik Thota</h1>
 
-<p align="center"><strong>Senior Data Engineer at Crunchyroll</strong></p>
-
 <p align="center">
   I have spent 6+ years building data platforms across AWS and Azure, moving between classic ETL, cloud warehousing, streaming systems, and internal analytics products.
 </p>
@@ -95,9 +93,3 @@ A lot of my work has lived in environments where accuracy matters: insurance, en
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect - Associate" />
   <img src="https://img.shields.io/badge/SAFe-5%20Practitioner-8B5CF6?style=flat-square" alt="SAFe 5 Practitioner" />
 </p>
-
-## How I Like To Work
-
-I like systems that are boring in production. That usually means clear interfaces, useful logs, stronger validation, and less mystery when something fails at 2 AM.
-
-If you are working on data platforms, analytics tooling, or internal automation, feel free to connect.
