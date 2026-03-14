@@ -52,13 +52,6 @@ I am building toward principal-level ownership across full-stack data and AI. Fo
   </tr>
 </table>
 
-## AI and LLM Work
-
-- Agent-style workflows using Claude Code, Gemini CLI, MCP servers, skills, plugins, and command-driven automation.
-- LLM application patterns using LangChain, LangGraph, and LangSmith for orchestration, tracing, and workflow design.
-- Prompt-plus-tool systems that need more than a chat box: connected tools, structured outputs, evaluation, and useful guardrails.
-- AI features that still need engineering discipline, especially around observability, handoffs, and reliability.
-
 ## Where I Am Strong
 
 - Modernizing data flows from enterprise systems, flat files, APIs, and operational databases into cloud-ready platforms.
