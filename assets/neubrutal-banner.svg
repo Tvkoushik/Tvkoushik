@@ -1,32 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">Koushik Thota</title>
-  <desc id="desc">Neubrutalist GitHub profile banner for Koushik Thota</desc>
-  <rect width="1200" height="420" fill="#F7F1E8"/>
+  <desc id="desc">Clean neubrutalist GitHub profile banner</desc>
+  <rect width="1200" height="360" fill="#F6F1E8"/>
 
-  <rect x="92" y="82" width="1016" height="256" fill="#111111"/>
-  <rect x="68" y="58" width="1016" height="256" fill="#FFFDF7" stroke="#111111" stroke-width="8"/>
+  <rect x="88" y="70" width="1020" height="220" fill="#111111"/>
+  <rect x="60" y="44" width="1020" height="220" fill="#FFFDF8" stroke="#111111" stroke-width="8"/>
 
-  <rect x="84" y="72" width="360" height="58" fill="#FFD84D" stroke="#111111" stroke-width="6"/>
-  <text x="104" y="109" font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#111111">FULL-STACK DATA + AI</text>
+  <rect x="86" y="70" width="318" height="56" fill="#FFD84D" stroke="#111111" stroke-width="6"/>
+  <text x="108" y="107" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#111111">FULL-STACK DATA + AI</text>
 
-  <rect x="856" y="72" width="212" height="58" fill="#74C7FF" stroke="#111111" stroke-width="6"/>
-  <text x="892" y="109" font-family="Arial Black, Impact, sans-serif" font-size="28" fill="#111111">6+ YEARS</text>
+  <rect x="866" y="70" width="174" height="56" fill="#74C7FF" stroke="#111111" stroke-width="6"/>
+  <text x="902" y="107" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#111111">6+ YEARS</text>
 
-  <text x="100" y="215" font-family="Arial Black, Impact, sans-serif" font-size="86" fill="#111111">KOUSHIK THOTA</text>
-  <text x="103" y="254" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">DATA PLATFORMS / AI SYSTEMS / PRODUCT SURFACES</text>
+  <text x="88" y="195" font-family="Arial Black, Impact, sans-serif" font-size="82" fill="#111111">KOUSHIK THOTA</text>
+  <text x="92" y="232" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#111111">DATA PLATFORMS / AI SYSTEMS / PRODUCT SURFACES</text>
 
-  <rect x="98" y="275" width="618" height="54" fill="#FF6B57" stroke="#111111" stroke-width="6"/>
-  <text x="120" y="311" font-family="Arial Black, Impact, sans-serif" font-size="26" fill="#111111">BUILDING TOWARD PRINCIPAL-LEVEL SCOPE</text>
-
-  <rect x="82" y="350" width="222" height="42" fill="#FFFDF7" stroke="#111111" stroke-width="5"/>
-  <text x="106" y="378" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#111111">DATA PLATFORMS</text>
-
-  <rect x="324" y="350" width="208" height="42" fill="#FFD84D" stroke="#111111" stroke-width="5"/>
-  <text x="351" y="378" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#111111">AI WORKFLOWS</text>
-
-  <rect x="552" y="350" width="208" height="42" fill="#74C7FF" stroke="#111111" stroke-width="5"/>
-  <text x="589" y="378" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#111111">CLOUD SYSTEMS</text>
-
-  <rect x="780" y="350" width="270" height="42" fill="#FFFDF7" stroke="#111111" stroke-width="5"/>
-  <text x="804" y="378" font-family="Arial Black, Impact, sans-serif" font-size="20" fill="#111111">ENGINEERING TOOLING</text>
+  <rect x="88" y="248" width="600" height="46" fill="#FF6B57" stroke="#111111" stroke-width="6"/>
+  <text x="112" y="279" font-family="Arial Black, Impact, sans-serif" font-size="24" fill="#111111">BUILDING TOWARD PRINCIPAL-LEVEL SCOPE</text>
 </svg>
