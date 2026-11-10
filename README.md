@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1F6FEB?style=for-the-badge" alt="8+ years experience" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-1F6FEB?style=for-the-badge" alt="8+ years experience" />
   <img src="https://img.shields.io/badge/Focus-Batch%20%2B%20Streaming%20Data-0F766E?style=for-the-badge" alt="Batch and streaming data" />
   <img src="https://img.shields.io/badge/Direction-Full--Stack%20Data%20%2B%20AI-7C3AED?style=for-the-badge" alt="Full-stack data and AI" />
 </p>
