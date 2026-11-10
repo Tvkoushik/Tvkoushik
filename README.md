@@ -1,5 +1,5 @@
 <p align="center">
-  I have spent 8+ years building data platforms across AWS and Azure, and I am pushing toward principal-level scope across full-stack data and AI systems.
+  I have spent 8+ years building data platforms across AWS, GCP and Azure in Data & AI
 </p>
 
 <p align="center">
