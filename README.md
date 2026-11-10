@@ -1,14 +1,9 @@
-<h1 align="center">Koushik Thota</h1>
-
 <p align="center">
-  I have spent 6+ years building data platforms across AWS and Azure, and I am pushing toward principal-level scope across full-stack data and AI systems.
+  I have spent 8+ years building data platforms across AWS and Azure, and I am pushing toward principal-level scope across full-stack data and AI systems.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/koushikt/">
-    <img src="https://img.shields.io/badge/LinkedIn-Koushik%20Thota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1F6FEB?style=for-the-badge" alt="6+ years experience" />
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1F6FEB?style=for-the-badge" alt="8+ years experience" />
   <img src="https://img.shields.io/badge/Focus-Batch%20%2B%20Streaming%20Data-0F766E?style=for-the-badge" alt="Batch and streaming data" />
   <img src="https://img.shields.io/badge/Direction-Full--Stack%20Data%20%2B%20AI-7C3AED?style=for-the-badge" alt="Full-stack data and AI" />
 </p>
